@@ -36,7 +36,7 @@ html,body { height: 100%; margin: 0; font-family: Inter, system-ui, -apple-syste
 .hero {
   width: 100%;
   height: 45vh;
-  background-image: url("/ux1/photos/hero-image.jpg"); /* Replace with your photo */
+  background-image: url("/photos/hero-image.jpg"); /* Replace with your photo */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
